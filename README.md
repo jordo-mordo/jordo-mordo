@@ -1,4 +1,4 @@
-### Hi, Hello, and Howdy! 🤓
+### Hey, glad you found my page! 😁
 
 <!--
 **jordo-mordo/jordo-mordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
